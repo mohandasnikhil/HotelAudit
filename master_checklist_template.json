@@ -1,0 +1,118 @@
+{
+  "Facade & Structure": [
+    "Glass",
+    "Cladding",
+    "Wall/Stones",
+    "Doors",
+    "Decorative Items",
+    "Lighting",
+    "Plants",
+    "Irrigation System",
+    "Hotel Logo",
+    "Water Feature"
+  ],
+  "Main Lobby": [
+    "Flooring",
+    "Walls",
+    "Ceiling",
+    "Lighting",
+    "Furniture",
+    "Decorative Items",
+    "Entrance Hall",
+    "Doors"
+  ],
+  "Corridors & Hallways": [
+    "Flooring",
+    "Lighting",
+    "Signage",
+    "Handrails",
+    "Accessibility"
+  ],
+  "Public Toilets": [
+    "Walls",
+    "Flooring",
+    "Vanity Counter",
+    "Sanitary Accessories",
+    "Doors",
+    "Baby Changing Table",
+    "Accessibility Hooks"
+  ],
+  "Guestroom": [
+    "Flooring",
+    "Walls",
+    "Ceiling",
+    "Furniture",
+    "Lighting",
+    "Bathroom Amenities",
+    "Closet",
+    "Windows",
+    "Curtains",
+    "AC/Power Control"
+  ],
+  "F&B Outlets": [
+    "Flooring",
+    "Walls",
+    "Ceiling",
+    "Buffet Counter",
+    "Waiter Station",
+    "Hostess Desk",
+    "Doors",
+    "Lighting",
+    "Decorative Items"
+  ],
+  "Ballrooms & Meeting Rooms": [
+    "Flooring",
+    "Walls",
+    "Ceiling",
+    "AV Fixtures",
+    "Lighting",
+    "Signage",
+    "Buffet Counters",
+    "Reception Desk",
+    "Decorative Items",
+    "Doors"
+  ],
+  "Spa & Wellness": [
+    "Treatment Rooms",
+    "Showers",
+    "Steam Room",
+    "Sauna",
+    "Hammam",
+    "Ceiling",
+    "Lighting",
+    "Vanity Counter",
+    "Doors",
+    "Floors"
+  ],
+  "Fitness Center": [
+    "Flooring",
+    "Equipment Area",
+    "Mirrors",
+    "Ceiling",
+    "Lighting",
+    "Terrace"
+  ],
+  "Swimming Pools": [
+    "Pool Type",
+    "Deck Flooring",
+    "Pool Tiles",
+    "Furniture",
+    "Cabanas",
+    "Lighting"
+  ],
+  "Landscaping & Outdoor": [
+    "Plants",
+    "Vases",
+    "Irrigation System",
+    "Water Features",
+    "Lighting"
+  ],
+  "Parking & Entry": [
+    "Valet Station",
+    "Signage",
+    "Lighting",
+    "Entry Signage",
+    "Security Post",
+    "EV Parking"
+  ]
+}
